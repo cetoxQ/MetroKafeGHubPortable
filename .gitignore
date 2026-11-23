@@ -1,0 +1,10 @@
+# Derleme ciktisi (exe'ler Releases'ta)
+dist/
+
+# Paket icerigi: Logitech dosyalari ve kullanici ayarlari, depoya girmez
+App/
+ProgramData/
+UserData/
+Loglar/
+durum.txt
+*.exe.old
